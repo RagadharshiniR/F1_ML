@@ -1,4 +1,4 @@
-# F1_ML
+# F1 Score ML Exercise
 
 #### Image Classification Using a Convolutional Neural Network (CNN)
 
